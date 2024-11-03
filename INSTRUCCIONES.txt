@@ -1,0 +1,9 @@
+--------------------------
+INSTALAR
+
+npm i react-hook-form
+npm i zustand
+npm i uuidv4
+npm i uuidv4
+npm i react-toastify
+--------------------------
